@@ -3443,6 +3443,14 @@ hr {
     margin-bottom: 20px
 }
 
+.footer-top-cap h4 {
+    color: #fff;
+}
+
+.footer-top-cap p a {
+    color: #ec5b53;
+}
+
 @media (max-width: 575px) {
     .footer-area .footer-top .footer-top-cap span a {
         font-size: 27px
